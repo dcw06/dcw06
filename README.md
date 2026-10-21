@@ -16,3 +16,5 @@ I focus on making systems testable and recoverable: explicit state, validated mo
 **Tools:** Python, C++, R, SQL, TypeScript · FastAPI, React, PyTorch, ONNX Runtime · Google Cloud, Docker, and Git.
 
 The [original Crucible prototype](https://github.com/dcw06/Crucible) and [numerical field solver](https://github.com/dcw06/ElectronicSimulator) are also public. Earlier learning projects are kept separately.
+
+[LinkedIn](https://www.linkedin.com/in/chongwei-dai-2a272235a) · [Devpost portfolio](https://devpost.com/chongweidai)
