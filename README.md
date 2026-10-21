@@ -1,16 +1,18 @@
-## Hi there 👋
+# Chongwei (Alan) Dai
 
-<!--
-**dcw06/dcw06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+UCLA student building AI agents, machine learning systems, and reliable infrastructure. I enjoy work at the intersection of AI engineering, data science, distributed systems, and robotics.
 
-Here are some ideas to get you started:
+## Selected projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | What to inspect |
+|---|---|
+| [CommitmentOS](https://github.com/dcw06/CommitmentOS) | Gmail-to-Calendar agent with deterministic scheduling, conflict repair, a React dashboard, and revision-linked reliability evidence. [Try the sandbox](https://commitmentos-2hscowvydq-uw.a.run.app/sandbox). |
+| [ARC-AGI-3](https://github.com/dcw06/ARC-AGI-3) | Offline agent infrastructure, isolated client state, journaled actions, reproducible experiments, and evidence replay. Research findings distinguish infrastructure reliability from game-solving performance. |
+| [ChessBot](https://github.com/dcw06/ChessBot) | Personal chess behavior modeling with ONNX inference, scoped held-out evaluation, browser tests, and a playable application. [Play](https://playalandaiatchess.org). |
+| [Crucible Security](https://github.com/dcw06/Crucible-Updated-7-30-) | Security scanning and test orchestration with isolated workers, signed execution evidence, and conservative verdicts. |
+
+I focus on making systems testable and recoverable: explicit state, validated model outputs, bounded execution, and evidence that supports each claim. Project READMEs link to setup instructions, CI, results, and limitations.
+
+**Tools:** Python, C++, R, SQL, TypeScript · FastAPI, React, PyTorch, ONNX Runtime · Google Cloud, Docker, and Git.
+
+The [original Crucible prototype](https://github.com/dcw06/Crucible) and [numerical field solver](https://github.com/dcw06/ElectronicSimulator) are also public. Earlier learning projects are kept separately.
